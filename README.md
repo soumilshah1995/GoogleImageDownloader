@@ -4,7 +4,7 @@
 
 # googleimagedownloader 
 
-GitHub styled button for [PayPal][]
+GitHub styled button for [PayPal][https://www.paypal.me/soumilshah1995]
 
 ![PayPal button](http://rawgit.com/twolfson/paypal-github-button/master/dist/button.svg)
 
