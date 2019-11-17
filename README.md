@@ -4,11 +4,7 @@
 
 # googleimagedownloader 
 
-GitHub styled button for [PayPal][]
-
-![PayPal button](http://rawgit.com/twolfson/paypal-github-button/master/dist/button.svg)
-
-[PayPal]: https://www.paypal.me/soumilshah1995
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/soumilshah1995)
 
 
 #### what is Google Image Downloader  ?
