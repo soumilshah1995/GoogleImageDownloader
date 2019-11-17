@@ -4,6 +4,13 @@
 
 # googleimagedownloader 
 
+GitHub styled button for [PayPal][]
+
+![PayPal button](http://rawgit.com/twolfson/paypal-github-button/master/dist/button.svg)
+
+[PayPal]: PayPal.Me/soumilshah1995
+
+
 #### what is Google Image Downloader  ?
 * Are you into Machine Learning ? and want Image Dataset?
 * Download any Image from Google Search with 2 lines of Python code
