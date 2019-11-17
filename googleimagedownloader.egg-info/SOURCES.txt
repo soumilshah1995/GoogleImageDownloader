@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+googleimagedownloader/googleimagedownloader.py
+googleimagedownloader.egg-info/PKG-INFO
+googleimagedownloader.egg-info/SOURCES.txt
+googleimagedownloader.egg-info/dependency_links.txt
+googleimagedownloader.egg-info/requires.txt
+googleimagedownloader.egg-info/top_level.txt

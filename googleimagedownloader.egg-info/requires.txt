@@ -1,0 +1,4 @@
+requests-futures
+pandas
+bs4
+requests
