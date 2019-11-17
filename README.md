@@ -8,7 +8,7 @@ GitHub styled button for [PayPal][]
 
 ![PayPal button](http://rawgit.com/twolfson/paypal-github-button/master/dist/button.svg)
 
-[PayPal]: PayPal.Me/soumilshah1995
+[PayPal]: https://www.paypal.me/soumilshah1995
 
 
 #### what is Google Image Downloader  ?
